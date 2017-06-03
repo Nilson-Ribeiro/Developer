@@ -1,0 +1,2 @@
+# Developer
+códigos parciais
